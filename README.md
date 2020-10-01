@@ -8,3 +8,5 @@
 
 _Do checkout the Computer vs Computer mode._
 _A very interesting Game._
+<br>
+Contribute to the project by adding documentation to the project.
