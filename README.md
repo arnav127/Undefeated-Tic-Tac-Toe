@@ -7,3 +7,4 @@
 - Computer  VS   Computer
 
 _Do checkout the Computer vs Computer mode._
+_A very interesting Game._
